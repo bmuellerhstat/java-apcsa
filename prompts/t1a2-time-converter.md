@@ -8,7 +8,7 @@ The program should then calculate the year, month, day, hour, minute, and second
 
 Months are represented by numbers ranging from 0 to 11. Days range from 0 to 29. For example, 0 is January, 1 is February, etc. and 0 is the first day of the month, 1 is the second day of the month, etc.
 
-Sample Run:
+Sample Runs:
 ```java
 Seconds Since Unix Epoch:
 999999999
