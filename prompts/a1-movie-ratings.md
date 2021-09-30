@@ -14,10 +14,6 @@ When you write the code to produce your program's final output, take extra care 
 
 Sample Run:
 ```java
-e computed as a weighted average. Count the average website rating as 20% of the overall rating, the average focus group rating as 30% of the overall rating, and the average movie critic rating as 50% of the overall rating. The overall rating should be rounded to the nearest integer (NOT just truncated to the integer below).
-
-When you write the code to produce your program's final output, take extra care to ensure all the labels used are exactly as shown in the sample run, including the colon after each label. The program which grades your solution will look for the values after these labels, so if they don't match exactly your solution may not be graded correctly.
-
 Sample Run:
 
 Please enter the movie name
